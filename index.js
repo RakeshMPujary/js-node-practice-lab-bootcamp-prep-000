@@ -1,5 +1,3 @@
-node// write your code below!;
-
 varname = "Joe";
 var height = "74";
 
