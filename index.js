@@ -1,6 +1,6 @@
 node// write your code below!
 
-varname = "Janet";
+varname = "Joe";
 var height = "74";
 
 console.log("Name:");
